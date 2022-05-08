@@ -1,2 +1,2 @@
-reg add "HKCR\directory\background\shell\CloseScreen" /ve /d "¹Ø±ÕÏÔÊ¾Æ÷"  /f
+reg add "HKCR\directory\background\shell\CloseScreen" /ve /d "å…³é—­æ˜¾ç¤ºå™¨"  /f
 reg add "HKCR\directory\background\shell\CloseScreen\command" /ve /d "%~dp0CloseScreen.exe" /f
