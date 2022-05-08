@@ -1,0 +1,1 @@
+reg delete "HKCR\directory\background\shell\CloseScreen" /f

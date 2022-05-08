@@ -19,4 +19,13 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <CopyFileToFolders Include="注册右键菜单.bat">
+      <Filter>源文件</Filter>
+    </CopyFileToFolders>
+    <CopyFileToFolders Include="移除右键菜单.bat">
+      <Filter>源文件</Filter>
+    </CopyFileToFolders>
+    <CopyFileToFolders Include="注册或移除右键菜单需要管理员权限运行.txt" />
+  </ItemGroup>
 </Project>
