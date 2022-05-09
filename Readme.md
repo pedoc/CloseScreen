@@ -16,9 +16,3 @@
 2. 开源
 
 3. 免费
-
-![smile](https://www.azquotes.com/picture-quotes/quote-talk-is-cheap-show-me-the-code-linus-torvalds-45-66-13.jpg)
-
-工具开发动力来源见此处([一键关闭显示器的软件 “Snooze” - 讨论分享 - 小众软件官方论坛](https://meta.appinn.net/t/topic/32028))
-
-附原工具下载地址:https://github.com/isPoto/Snooze/releases/tag/v3
