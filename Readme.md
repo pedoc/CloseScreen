@@ -1,3 +1,6 @@
+### 本仓库将不在维护,请使用类似软件 https://github.com/isPoto/Snooze/releases/tag/v3
+
+
 小程序能力单一,有且仅有如下功能([下载地址](https://github.com/pedoc/CloseScreen/releases/))
 
 ```
