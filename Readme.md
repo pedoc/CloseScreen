@@ -3,6 +3,8 @@
 ```
 1. 支持直接双击exe运行关闭显示器.
 2. 支持注册/反注册右键菜单关闭显示器.
+3. 多显示器支持(支持仅关闭指定显示器,注意需要硬件支持 DDC/CI ).
+   命令用法为 CloseScreen.exe 显示器索引,索引从0开始,一般0为主显示器,副显示器为1,以此类推.
 ```
 
 **注意和系统休眠的区别,此程序仅关闭显示器显示(效果类似直接关闭显示器电源,但主机将继续运行).**
@@ -15,7 +17,7 @@
 
 3. 免费
 
-4. 体积小(release版仅**11KB**)
+4. 体积小
 
 ![smile](https://www.azquotes.com/picture-quotes/quote-talk-is-cheap-show-me-the-code-linus-torvalds-45-66-13.jpg)
 
